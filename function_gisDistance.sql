@@ -1,6 +1,6 @@
-DROP FUNCTION IF EXISTS f_Distance;
+DROP FUNCTION IF EXISTS fGisDistance;
 --/
-CREATE FUNCTION f_Distance
+CREATE FUNCTION fGisDistance
         (
             lat1 FLOAT,
             lon1 FLOAT,
