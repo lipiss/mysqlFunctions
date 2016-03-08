@@ -1,5 +1,6 @@
 
-DROP PROCEDURE IF EXISTS stats_build_crosstable;
+DROP PROCEDURE IF EXISTS 
+stats_build_crosstable;
 /*
 The characters for the stored procedure are special for dbVisualizer.
 This an example of the usual sintax, changing the delimiter.
