@@ -1,4 +1,4 @@
-/*CSV xxxx  toolkit -> https://csvkit.readthedocs.io/
+/*CSV toolkit -> https://csvkit.readthedocs.io/
 How to create the table from the csv automatically:
 From an a command prompt use the module csvsql
 csvsql -i mysql sitefile.csv
